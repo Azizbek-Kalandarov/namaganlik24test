@@ -5,3 +5,9 @@ body {
 p {
   color: green;
 }
+
+
+a {
+  color: orange;
+  text-decoration: none;
+}
